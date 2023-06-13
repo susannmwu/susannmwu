@@ -1,3 +1,4 @@
+#About Me
 Hi, I’m Susan 👋
 - 🌱 I’m currently learning Python, JavaScript, and React.js
 
