@@ -1,7 +1,7 @@
 ### About Me
 Hi, I’m Susan 👋
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/susannmwu/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susannmwu&hide=python,javascript,css,scss,html&theme=tokyonight)
 
 
 <!---
